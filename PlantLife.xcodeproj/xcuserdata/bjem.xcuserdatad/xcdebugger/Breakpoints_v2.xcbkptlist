@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE1360B4-A801-4D25-866C-6A59515F1B22"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlantLife/Model/PlantViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 8c3757b659f6caa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of PlantLife.PlantViewModel.plants : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 64b0db20ec9c04ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.plants.getter : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 7e406cdc6d53d621"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.plants.setter : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - cb45000c59912810"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.plants.modify : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - bf81545b56eb11ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.plants.modify : Swift.Array&lt;PlantLife.Plant&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - f7e6388191092f7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$plants.getter : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - eab58455c537c30f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$plants.setter : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 540d4689ca021bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$plants.modify : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 6f81c30cf4f1afcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$plants.modify : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 503b8518bc59d2f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.init() -&gt; PlantLife.PlantViewModel"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "307">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - beb54c9e22ca145d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of PlantLife.PlantViewModel.rootCrops : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 952103edcf3ffb71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.rootCrops.getter : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 346fe8017871b765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.rootCrops.setter : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - aee2de2491ac9c74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.rootCrops.modify : Swift.Array&lt;PlantLife.Plant&gt;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - d7ff4e69d212b409"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.rootCrops.modify : Swift.Array&lt;PlantLife.Plant&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 26aec788dea3d207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$rootCrops.getter : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - c2033c090b0cbdfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$rootCrops.setter : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 932d1d1442819fe7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$rootCrops.modify : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 33939a674622c9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.$rootCrops.modify : Combine.Published&lt;Swift.Array&lt;PlantLife.Plant&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "30F00B2A-1239-4D58-A590-6BF0F13C64CC - 503b8518bc59d2f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantLife.PlantViewModel.init() -&gt; PlantLife.PlantViewModel"
+                  moduleName = "PlantLife"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bjem/Desktop/PlantLife/PlantLife/Model/PlantViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "314">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F42040B-823F-4F1D-A247-1110B37148FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlantLife/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
